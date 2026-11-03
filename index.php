@@ -1,11 +1,12 @@
 
-  date_default_timezone_set("Europe/Prague");
-$ted = date("H:i:s");      
-$den = date("j. n. Y");
+
 ?>
 <!DOCTYPE html>
 <html lang="cs">
 <head>
+    date_default_timezone_set("Europe/Prague");
+$ted = date("H:i:s");      
+$den = date("j. n. Y");
   <meta charset="utf-8">
   <title>PHP: čas serveru</title>
 </head>
