@@ -6,6 +6,6 @@
 </head>
 <body>
   <h1><?php echo "Ahoj, tady IT2-xx!"; ?></h1>
-  <p>Tenhle nadpis vyrobil program. Běžel na serveru, a server je teď počítač u GitHubu.</p>
+  <p>Tenhle nadpis vyrobil program. Běžel na serveru, a server je teď počítač u GitHubu. HaHa</p>
 </body>
 </html>
